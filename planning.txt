@@ -1,0 +1,27 @@
+CodeBridge - Assignment 1 Planning
+
+Project Partner: Working alone
+
+Vision for the site:
+- Wanted to create something that felt relevant to computer science students at MRU.
+- Decided to build a fictional peer tutoring service that connects students with other students.
+- Kept the name simple and clean: CodeBridge (because it bridges the gap between confusion and clarity).
+- Aimed for a modern, minimalistic, and tech-inspired look.
+
+Page breakdown:
+- index.html – clean landing page with an intro to what CodeBridge is and why it exists.
+- services.html – a table showing what subjects are offered, who the tutor is, and when they’re available.
+- contact.html – a working contact form where users can submit questions or session requests.
+
+Design decisions:
+- Color scheme is blue/white/gray to keep it neutral, academic, and clean.
+- Added a splash screen with the logo to give it some life on load.
+- Navigation is simple and centered so it’s consistent across all pages.
+- Used a full-width background image on the home page to add visual interest without distracting.
+- External and internal links added as required.
+- Used <figure> and <figcaption> as well as form validation and meta tags on all pages.
+
+Tools used:
+- VS Code
+- GitHub (for commits and version history)
+- Formspree for real email functionality on the contact page
