@@ -30,6 +30,11 @@ body {
   pointer-events: none;
 }
 
+#splash img {
+  max-width: 80%;
+  height: auto;
+}
+
 /* Header */
 header {
   background-color: #fff;
@@ -241,7 +246,11 @@ footer {
     margin: auto;
   }
 }
-
+@media screen and (max-width: 600px) {
+  #splash img {
+    max-width: 60%;
+  }
+}
 .radio-group {
   display: flex;
   gap: 1rem;
